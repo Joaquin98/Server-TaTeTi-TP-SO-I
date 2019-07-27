@@ -1,0 +1,47 @@
+Pruebas:
+
+- Intentar jugar sin tener un nombre asignado. ✔
+
+- Intentar ingresar con un nombre ya utilizado. ✔
+
+- Al agregar una partida debería aparecer en la lista al hacer LSG. ✔
+
+- Al empezar a observar una partida existente, luego de cada jugada
+  le debe llegar el tablero nuevo. ✔
+
+- Al dejar de observar debe dejar de recibir los tableros. ✔
+
+- Intentar crear varias partidas con un mismo usuario. ✔
+
+- Intentar aceptar su propia partida. ✔
+
+- Intentar aceptar una partida llena. ✔
+
+- Intentar aceptar una partida inexistente. ✔
+
+- Intentar dejar de observar una partida inexistente. ✔
+
+- Intentar dejar de observar una partida que no esta observando. ✔
+
+- Verificar que al salir de la partida que creó ésta se elimine. ✔
+
+- Verificar que al salir de la partida en la que participa ésta se reinicie
+  y quede esperando a un nuevo usuario. ✔
+
+- Intentar jugar en un turno que no corresponde. ✔
+
+- Intentar jugar cuando no hay 2 jugadores. ✔
+
+- Intentar poner una ficha sobre otra ficha que ya esta en el tablero. ✔
+
+- Intentar poner una ficha en una ubicación imposible. ✔
+
+- Intentar jugar en una partida inexistente. ✔
+
+- Intentar jugar en una partida en la que no esta participando. ✔
+
+- Verificar que al enviar el comando BYE se elimine el usuario, se eliminen sus
+  partidas, y que se reinicien las partidas en las que participa. ✔
+
+- Verificar que se puede crear un usuario con el nombre de otro que ha utilizado el
+  comando BYE. ✔
